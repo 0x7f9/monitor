@@ -1,0 +1,19 @@
+10/07/2023 07:11:50 AM - Started process monitoring..
+
+10/07/2023 07:12:37 AM - New Process > 7260 Name: notepad.exe
+Launch command: ['C:\\Windows\\system32\\NOTEPAD.EXE', 'C:\\Users\\dev\\AppData\\Local\\Temp\\akdbafvujaf.txt']
+
+10/07/2023 07:12:37 AM - New Process > 1728 Name: smartscreen.exe
+Launch command: ['C:\\Windows\\System32\\smartscreen.exe', '-Embedding']
+
+10/07/2023 07:12:52 AM - New Process > 9756 Name: dllhost.exe
+Launch command: ['C:\\Windows\\SysWOW64\\DllHost.exe', '/Processid:{776DBC8D-791E12EF49D8}']
+
+10/07/2023 07:12:56 AM - New Process > 6488 Name: backgroundTaskHost.exe
+Launch command: ['C:\\Windows\\system32\\BackgroundTaskHost.exe', '-ServerName:BackgroundTaskHost.WebAccountProvider']
+
+10/07/2023 07:12:58 AM - New Process > 3788 Name: RuntimeBroker.exe
+Launch command: ['C:\\Windows\\System32\\RuntimeBroker.exe', '-Embedding']
+
+10/07/2023 07:12:59 AM - New Process > 4816 Name: regedit.exe
+Launch command: ['C:\\Windows\\regedit.exe']

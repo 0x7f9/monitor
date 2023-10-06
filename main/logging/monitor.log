@@ -1,0 +1,32 @@
+10/07/2023 07:11:50 AM - Started unhidden monitoring mode
+10/07/2023 07:11:50 AM - Started file monitoring..
+10/07/2023 07:12:17 AM - - User: unknow Deleted: C:\Users\dev\AppData\Local\Temp\test.txt
+10/07/2023 07:12:25 AM - + User: dev Created: C:\Users\dev\AppData\Local\Temp\New Text Document.txt
+10/07/2023 07:12:26 AM - New Text Document.txt is valid
+10/07/2023 07:12:35 AM - User: dev renamed: [New Text Document.txt] to: [akdbafvujaf.txt]
+10/07/2023 07:12:36 AM - !! Potential security event (Suspicious name) !!
+10/07/2023 07:12:36 AM - Scanning akdbafvujaf.txt
+10/07/2023 07:12:36 AM - Path C:\Users\dev\AppData\Local\Temp\akdbafvujaf.txt
+10/07/2023 07:12:36 AM - MD5 HASH: d41d8cd98f00b204e9800998ecf8427e
+10/07/2023 07:12:36 AM - Found no patterns in file contents.
+10/07/2023 07:12:36 AM - SHA-256 HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+10/07/2023 07:12:36 AM - File was not matched with a malware hash
+10/07/2023 07:12:36 AM - Scan complete
+
+10/07/2023 07:31:28 AM - ! User: dev Modified: akdbafvujaf.txt
+10/07/2023 07:31:28 AM - Scanning akdbafvujaf.txt
+10/07/2023 07:31:28 AM - Path C:\Users\dev\AppData\Local\Temp\akdbafvujaf.txt
+10/07/2023 07:31:28 AM - MD5 HASH: d65367c4e0c67d485a3b12c0c8308da9
+10/07/2023 07:31:28 AM - SHA-256 HASH: 701dbbb6660bd432522b3a34f03bc527a3e684c7d946a3dfa5ce615db8b14446
+10/07/2023 07:31:28 AM - !! Common malware string found in file !!
+10/07/2023 07:31:28 AM - !! Pattern found: powershell\s+-e !!
+10/07/2023 07:31:28 AM - File was not matched with a malware hash
+10/07/2023 07:31:28 AM - Closing out common parent handles
+10/07/2023 07:31:28 AM - Closed: explorer.exe PID: 1028
+10/07/2023 07:31:29 AM - Restarted Windows Explorer
+10/07/2023 07:31:29 AM - Closed: notepad.exe PID: 8188
+10/07/2023 07:31:29 AM - Closed: cmd.exe PID: 7968
+10/07/2023 07:31:29 AM - + File copied to: C:\Users\Public\stored_akdbafvujaf.zip
+10/07/2023 07:31:29 AM - Scan complete
+
+10/07/2023 07:31:29 AM - - User: unknow Deleted: C:\Users\dev\AppData\Local\Temp\akdbafvujaf.txt

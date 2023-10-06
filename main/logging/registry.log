@@ -1,0 +1,6 @@
+10/07/2023 07:24:58 AM - Started registry monitoring..
+10/07/2023 07:25:02 AM - Key deleted: Software\Microsoft\Windows\CurrentVersion\RunOnce - New Value #2
+10/07/2023 07:25:04 AM - New key added: Software\Microsoft\Windows\CurrentVersion\RunOnce - New Value #2 - 0
+10/07/2023 07:25:13 AM - Key modified: Software\Microsoft\Windows\CurrentVersion\RunOnce - New Value #2 - 1
+10/07/2023 07:25:13 AM - Old key value - 0
+10/07/2023 07:25:20 AM - Orignal value has been restored

@@ -1,0 +1,30 @@
+10/07/2023 07:11:50 AM - Started service monitoring..
+10/07/2023 07:11:50 AM - !! Security event service triggered (Unverified-services) !!
+10/07/2023 07:11:50 AM - Name: Browser
+Display name: Computer Browser
+Name: Browser
+User launched: LocalSystem
+Binpath: C:\Windows\System32\svchost.exe -k netsvcs -p
+Status: stopped
+Description: Maintains an updated list of computers on the network and supplies this list to computers designated as browsers
+            If this service is stopped, this list will not be updated or maintained
+            If this service is disabled, any services that explicitly depend on it will fail to start
+           
+10/07/2023 07:11:50 AM - !! Security event service triggered (Unverified-services) !!
+10/07/2023 07:11:50 AM - Name: MicrosoftEdgeElevationService
+Display name: Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)
+Name: MicrosoftEdgeElevationService
+User launched: LocalSystem
+Binpath: "C:\Program Files (x86)\Microsoft\Edge\Application\117.0.2045.47\elevation_service.exe"
+Status: stopped
+Description: Keeps Microsoft Edge up to update
+            If this service is disabled, the application will not be kept up to date
+
+10/07/2023 07:11:50 AM - !! Security event service triggered (Unverified-services) !!
+10/07/2023 07:11:50 AM - Name: TestService
+Display name: TestServiceOne
+Name: TestService
+User launched: LocalSystem
+Binpath: C:\Users\dev\AppData\Local\Programs\Python\Python311\python.exe C:\folder\TROJAN\trojan.py
+Status: stopped
+Description: 

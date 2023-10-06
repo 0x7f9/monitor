@@ -1,0 +1,13 @@
+# CONFIG FILE
+# If saved everything will load on next monitoring session
+# Service interval checking timer is in seconds
+# Isolated path = C:\Users\Public
+# Interval = 120
+# Auto Download = False
+
+# Monitor config file (add directories like below)
+# ;C:\Users\dev
+# ;C:\Users\dev\AppData\Local
+
+;C:\Users\dev\AppData\Local\Temp
+
