@@ -18,6 +18,12 @@ python main.py mark <directory>
 # Start monitor
 # -h flag hides the command prompt
 python main.py start [-h]
+
+# List all marked directories
+python main.py list
+
+# Clear all marked directories
+python main.py clear
 ```
 
 **Features**  
