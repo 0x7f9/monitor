@@ -1,6 +1,6 @@
 # Monitoring Tool 
 
-A real time Python monitoring tool for tracking changes on Windows machines. Monitors marked file directories, Windows registry changes, and new processes with detailed logs whenever a change is detected
+A real time Python monitoring tool for tracking changes on Windows machines. Monitors marked file directories, registry, services, and newly spawned processes with detailed logs whenever a change is detected.
 
 **Usage**
 ```bash
